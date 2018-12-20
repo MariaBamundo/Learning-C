@@ -1,5 +1,6 @@
 /* This program approximates pi using the Monte Carlo method 
  * Maria Bamundo 
+ * 
  */
 
 #include <stdio.h>      
